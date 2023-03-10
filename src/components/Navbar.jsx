@@ -5,7 +5,7 @@ import GlobalStyle from '../globalstyle.js';
 import { mobile, tablet } from '../responsive';
 
 const Container = styled.div`
-    position: fixed;
+    position: static;
     top: 0;
     left: 0;
     width: 100%;
